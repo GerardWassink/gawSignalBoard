@@ -6,7 +6,7 @@
 
  This file will be \#include'd in the code.
 
- Specify values as follows:
+##### Specify values as follows:
 
 \#define SECRET_SSID "name of your wifi"
 
